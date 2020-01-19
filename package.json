@@ -1,0 +1,29 @@
+{ "name": "if-fun",
+  "version": "1.0.0",
+  "description": "Returns the first argument if it is a function (regular, async, generator, …), or your custom fallback value otherwise.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/if-fun-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/if-fun-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/if-fun-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "iffun.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
