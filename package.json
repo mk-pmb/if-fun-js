@@ -1,5 +1,5 @@
 { "name": "if-fun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns the first argument if it is a function (regular, async, generator, …), or your custom fallback value otherwise.",
   "keywords": [],
 
